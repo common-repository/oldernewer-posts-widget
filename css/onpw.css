@@ -1,0 +1,48 @@
+ul.onpw-list {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+ul.onpw-list li.onpw-item {
+    margin: 0 10px;
+    padding: 10px 0;
+    border-bottom: 1px solid #EEEEEE;
+    display: block;
+}
+
+ul.onpw-list li.onpw-item .onpw-thumb {
+    width: 80px;
+    height: auto;
+    margin-right: 10px;
+    float: left;
+}
+
+ul.onpw-list li.onpw-item .onpw-thumb img {
+    width: 80px;
+    height: auto;
+}
+
+ul.onpw-list li.onpw-item .onpw-content {
+
+}
+
+ul.onpw-list li.onpw-item .onpw-content .onpw-title {
+
+}
+
+ul.onpw-list li.onpw-item .onpw-content .onpw-excerpt {
+
+}
+
+ul.onpw-list li.onpw-item .onpw-content .onpw-meta {
+
+}
+
+ul.onpw-list li.onpw-item .onpw-content .onpw-meta .onpw-time {
+
+}
+
+ul.onpw-list li.onpw-item .onpw-content .onpw-meta .onpw-author {
+
+}
